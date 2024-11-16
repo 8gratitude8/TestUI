@@ -44,15 +44,5 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## Project URLs ;
-
-
-**URL**: https://run.gptengineer.app/projects/4f174763-2c00-4792-8805-56ef920e6cc3/improve
-
-**Use GPT Engineer**
-
-Simply visit the GPT Engineer project at [GPT Engineer](https://gptengineer.app/projects/4f174763-2c00-4792-8805-56ef920e6cc3/improve) and start prompting.
-
-Changes made via gptengineer.app will be committed automatically to this repo.
 
 Powered by 5-Dee Studios
